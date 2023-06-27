@@ -1,0 +1,28 @@
+* {
+  background-color:#252526;
+  color: white
+}
+
+.container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.users {
+  display: flex;
+  justify-content: space-between;
+  width: 20rem;
+  height: fit-content;
+  margin-bottom: 2rem;
+}
+
+.table-container {
+  width: 100vw;
+}
+
+th {
+  text-align: left;
+}
+
+td {
+  line-height: 2rem;
+}

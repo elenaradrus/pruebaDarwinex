@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "countryCode": "US",
+            "amount": 1500
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "countryCode": "CA",
+            "amount": 2500
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Johnson",
+            "countryCode": "GB",
+            "amount": 1800
+        },
+        {
+            "firstName": "Emily",
+            "lastName": "Brown",
+            "countryCode": "AU",
+            "amount": 3200
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Taylor",
+            "countryCode": "ES",
+            "amount": 2000
+        }
+    ],
+    "countries": {
+        "US": "United States",
+        "CA": "Canada",
+        "GB": "United Kingdom",
+        "AU": "Australia",
+        "ES": "Spain"
+    }
+}
